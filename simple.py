@@ -1,7 +1,7 @@
 class login:
     def __init__(self,id,pas):
         self.id="admin"
-        self.thtrtrhtrthas="admin"
+        self.thtrtrhtrthajjjjjs="admin"
 
     def check(id,pas):
         print self.id
